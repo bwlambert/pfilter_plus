@@ -1,17 +1,3 @@
-
-## Introduction 
-
-
-<br />
-
-## Background, Motivation 
-
----
-
-[...]
-
-<br />
-
 ## Build instructions
 
 ---
