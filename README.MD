@@ -141,8 +141,6 @@ The file contains six values, each on a separate line.  The values must be in th
 
 ## Summarize distribution of cases over ages over best parameter sets
 
-Intent [...]
-
 ---
 
 ```sh
