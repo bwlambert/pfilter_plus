@@ -1,0 +1,1 @@
+This directory contains two simple example files, "ISO.txt" which shows several lines of the data format needed for a given nation's demographic data, and "siaISO.txt" which contains SIA coverage for each age class for each year.
